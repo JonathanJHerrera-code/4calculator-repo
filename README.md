@@ -1,6 +1,6 @@
 # 4calculator-repo
 
-4 digit calculator application
+calculator application with only four nums.
 
 ## subheader
 
